@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', function() {
 
     const url = "https://dapi.kakao.com/v2/search/vclip?query=";
-    const key = "af35956434233a16d98f0c2170840ca3";
+    const key = "kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk"; // input your key
 
     function search(){
         chrome.tabs.executeScript({
